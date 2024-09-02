@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/alenaporoskun/alenaporoskun/blob/4fe999fe8ab16a419e14a94ed223dce8551351d9/static/images/43351231.jpg" align="center" style="width: 30%" />
+<img src="https://github.com/alenaporoskun/alenaporoskun/blob/e33a9ab9ae7f7806e6a152c12dcfefefe88724f5/static/images/giphy.webp" align="center" style="width: 30%" />
 </div>  
   
 
