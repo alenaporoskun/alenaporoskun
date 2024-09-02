@@ -14,14 +14,18 @@
 
 - ⚡ Fun fact: I love picture by numbers and crystal mosaics.  
   
-
 <br/>  
 
+## Glad to see you here!  
+
+I am a dedicated and skilled Python developer with extensive expertise in Python and Oracle SQL. My background includes successfully completed projects, reflecting my commitment to delivering high-quality, error-free solutions. My strengths in self-study and discipline drive me to continuously seek new challenges and opportunities for growth.
+
+In addition to my development skills, I work as a database analyst, where I handle various tasks including processing market research data in MS Excel, maintaining database directories, and creating detailed analytical reports in MS PowerPoint. This experience has honed my ability to work effectively both independently and as part of a team.
+
+My passion for coding and data analysis aligns with my goal to contribute positively to your company's growth. I am eager to leverage my skills and experience to add value to your team.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
