@@ -18,11 +18,13 @@
 
 ## Glad to see you here!  
 
-I am a dedicated and skilled Python developer with extensive expertise in Python and Oracle SQL. My background includes successfully completed projects, reflecting my commitment to delivering high-quality, error-free solutions. My strengths in self-study and discipline drive me to continuously seek new challenges and opportunities for growth.
+I am a detail-oriented database analyst with expertise in data unification, analysis, and visualization. My role involves processing marketing research data using MS Excel and automating routine tasks with Python. This combination of technical and analytical skills allows me to streamline workflows and deliver accurate, insightful reports that inform business decisions.
 
-In addition to my development skills, I work as a database analyst, where I handle various tasks including processing market research data in MS Excel, maintaining database directories, and creating detailed analytical reports in MS PowerPoint. This experience has honed my ability to work effectively both independently and as part of a team.
+In addition to database maintenance and analytical report creation in MS PowerPoint, I continuously seek ways to improve efficiency through data automation and innovative solutions. My self-motivation and commitment to learning have enabled me to independently master tools and techniques that enhance my work.
 
-My passion for coding and data analysis aligns with my goal to contribute positively to your company's growth. I am eager to leverage my skills and experience to add value to your team.
+I am passionate about using data to drive meaningful outcomes and am eager to contribute my skills to your team.
+
+Feel free to contact me at: olenaporoskun19@gmail.com
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
