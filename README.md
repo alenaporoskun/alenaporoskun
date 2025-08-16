@@ -9,7 +9,7 @@
 - **🔭 I’m currently working at Retail Monitoring (UA)**  
   
 
-- 🌱 I’m currently learning data analysis  
+- 🌱 I’m currently learning data engineering 
   
 
 - ⚡ Fun fact: I love picture by numbers and crystal mosaics.  
